@@ -1,2 +1,3 @@
 # play
-one to one game
+you can play on broken string
+
